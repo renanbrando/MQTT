@@ -4,6 +4,7 @@
   "description": "Test application to show off use of MQTT in Node.js.",
   "main": "index.js",
   "dependencies": {
+    "firebase-admin": "^5.12.1",
     "mqtt": "1.6.0"
   },
   "author": "Charlie Key <charlie@losant.com> (https://www.losant.com)",
